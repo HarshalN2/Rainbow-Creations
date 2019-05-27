@@ -1,0 +1,124 @@
+body{
+    font-family: 'Quicksand', sans-serif;
+    background:rgba(226, 226, 228, 0.301);
+}
+
+nav{
+    /*background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);*/
+    background: white;
+}
+.logo_size{
+  margin:5px 0px 0px 5px;
+}
+.nav_tab li a{
+    color: black;
+}
+.card{
+    border: none !important;
+    border-radius: 30px;
+    padding-top: 0px !important;
+    margin-top: 5%;
+}
+
+.card_header{
+    padding-top: 0px !important;
+}
+.show_pas{
+    cursor: pointer !important;
+}
+.btn_ctn{
+    margin-top:3%;
+}
+
+.sub_btn{
+    width: 50%;
+    border-radius: 15px;
+    /*background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);*/
+    transition: 0.6s;
+    border: none;
+    color: rgb(201, 158, 29);
+    border: none;
+    background: rgb(3, 47, 49);
+}
+.sub_btn:hover{
+            transform: scale(0.98);
+            background: rgb(1, 1, 20);
+        }
+
+.container{
+    width:95%;
+}
+.card{
+    box-shadow:1.25rem 1.375rem 30px 5px rgba(0, 0, 0, 0.250);
+}
+.logo_iaf{
+    margin-top:3%;
+}
+.bg_img_ctn{
+    margin:0px !important;
+    padding: 0px !important;
+}
+.logo_img{
+    margin-top:5%;
+    margin-left: 10%;
+}
+
+.top_heading{
+    font-family: Quicksand;
+}
+.footer_link li a{
+    color: white;
+    font-family: Quicksand;
+}
+.footer_start{
+    margin-top: 100px;
+    /*background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);*/
+}
+.footer_con_head{
+    font-weight: 600;
+    font-family: Quicksand;
+    color:rgb(255, 255, 255);
+}
+.footer_content{
+    color:rgb(255, 255, 255);letter-spacing: 1px;font-family: Quicksand;
+}
+.footer_link_head{
+    font-family: Quicksand;
+    color:rgb(255, 255, 255);
+    font-weight: 600;
+}
+.footer-copyright{
+    /*background: linear-gradient(to right, #12c2e9, #c471ed, #f64f59);*/
+}
+.cr_text{
+    font-family: Quicksand;
+    color: rgb(255, 255, 255);
+}
+.more_link{
+    font-family: Quicksand;
+    color: rgb(255, 255, 255);
+}
+.f1{
+            background:rgb(2, 29, 31);margin-top:100px;
+        }
+        .f2{
+            color:rgba(228, 180, 38, 0.8);
+        }
+        .f3{
+            color:rgb(255, 255, 255);letter-spacing: 1px;
+        }
+        .f4{
+            color:rgba(228, 180, 38, 0.8);
+        }
+        .f5 li a{
+            color:rgb(255, 255, 255);
+        }
+        .f6{
+            background:rgb(1, 19, 20);
+        }
+        .f7{
+            color: rgba(228, 180, 38, 0.8);
+        }
+        .f8{
+            color: rgba(228, 180, 38, 0.8);
+        }
